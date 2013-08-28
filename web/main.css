@@ -1,9 +1,5 @@
 /* 
-    Document   : main
-    Created on : Aug 28, 2013, 2:27:01 PM
-    Author     : Michael
-    Description:
-        Purpose of the stylesheet follows.
+    Document   : main.css
 */
 
 body { 
@@ -11,8 +7,6 @@ body {
     margin: auto;
     padding-top: 50px;
     margin-bottom: 50px;
-    border: 1px solid black;
-
 }
 h1, h2, h3, h4{
     text-align: center;
@@ -53,4 +47,12 @@ td{
 }
 span{
     font-size: 20px;
+}
+#compTIA{
+    height: 50px;
+    width: 50px;
+}
+#ptk{
+    height: 50px;
+    width: 50px;
 }
