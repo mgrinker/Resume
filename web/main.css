@@ -9,9 +9,13 @@
 body { 
     width: 900px;
     margin: auto;
+    padding-top: 50px;
+
 }
-h1 h2 h3 h4{
+h1, h2, h3, h4{
     text-align: center;
+    margin: 0px;
+    padding: 0px;
 }
 table{
     width: 750px;
