@@ -1,0 +1,24 @@
+/* 
+    Document   : main
+    Created on : Aug 28, 2013, 2:27:01 PM
+    Author     : Michael
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body { 
+    width: 900px;
+    margin: auto;
+}
+h1 h2 h3 h4{
+    text-align: center;
+}
+table{
+    width: 750px;
+    margin: auto;
+}
+.divContent{
+    width: 800px;
+    margin: auto;
+}
+
