@@ -10,6 +10,7 @@ body {
     width: 900px;
     margin: auto;
     padding-top: 50px;
+    border: 1px solid black;
 
 }
 h1, h2, h3, h4{
@@ -17,16 +18,37 @@ h1, h2, h3, h4{
     margin: 0px;
     padding: 0px;
 }
-ul{
-    text-align: center;
+ul, li{
+    text-align: left;
     font-size: 20px;
+    margin: 0px;
+    padding-left: 20px;
 }
 table{
-    width: 750px;
-    margin: auto;
-}
-.divContent{
     width: 800px;
     margin: auto;
+    border: 1px solid black;
+}
+td{
+    font-size: 20px;
+    width: 400px;
+    margin: 0px;
+    padding: 2px;
+    text-align: left;
+    border: 1px solid black;
+}
+.divContent{
+    width: 850px;
+    margin: auto;
+    border: 1px solid black;
+}
+.highlight{
+    font-weight: bold;
+    text-decoration: underline;
+}
+#summary{
+    text-align: center;
+    font-size: 20px;
+    margin: 0px;
 }
 
